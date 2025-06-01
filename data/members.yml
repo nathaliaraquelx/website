@@ -14,10 +14,10 @@
   member_type: current
   order: 2
 
-- id: mariem-ellouse
-  title: Mariem Ellouse
-  role: Board Member
-  affiliation: Nestlé Research center, Switzerland
+- id: mariem-ellouze
+  title: Mariem Ellouze
+  role: Representative to ICFMH
+  affiliation: Ferrero, Italy
   image: images/board/members/Mariem_Ellouse.png
   member_type: current
   order: 3
@@ -31,7 +31,7 @@
   order: 4
   
 - id: fernando-rodriguez
-  title: Fernando Rodriguez
+  title: "Fernando Pérez-Rodríguez"
   role: Board Member
   affiliation: University of Cordoba, Spain
   image: images/board/members/Fernando_Rodriguez.png
@@ -39,7 +39,7 @@
   order: 5
 
 - id: anderson-santana
-  title: Anderson Santana
+  title: "Anderson Sant'Ana"
   role: Board Member
   affiliation: University of Campinas, Brazil
   image: images/board/members/Anderson_Santana.png
@@ -47,7 +47,7 @@
   order: 6
 
 - id: martin-nauta
-  title: Martin Nauta
+  title: Maarten Nauta
   role: Board Member
   affiliation: Statens Serum Institut, Denmark
   image: images/board/members/Martin_Nauta.png
@@ -57,7 +57,7 @@
 - id: regis-pouillot
   title: Regis Pouillot
   role: Board Member
-  affiliation: Independent consultant, France
+  affiliation: Independent Consultant, France
   image: images/board/members/Regis_Pouillot.jpg
   member_type: current
   order: 8
@@ -79,7 +79,7 @@
   order: 10
 
 - id: josef-baranyi
-  title: Josef Baranyi
+  title: "József Baranyi"
   role: Former Member
   affiliation: Agricultural University of Athens, Greece
   image: images/board/former/Josef_Baranyi.png
@@ -89,7 +89,7 @@
 - id: tom-ross
   title: Tom Ross
   role: Former Member
-  affiliation: University of Tasmanian, Australia
+  affiliation: University of Tasmania, Australia
   image: images/board/former/Tom_Ross.jpg
   member_type: former
   order: 2
@@ -119,7 +119,7 @@
   order: 5
 
 - id: fanny-tenenhaus-aziza
-  title: Fanny Tenenhaus Aziza
+  title: Fanny Tenenhaus-Aziza
   role: Former Member
   affiliation: French Dairy Board (CNIEL), France
   image: images/board/former/Fanny.png
@@ -137,7 +137,7 @@
 - id: augustin-jean-christophe
   title: Augustin Jean-Christophe
   role: Former Member
-  affiliation: University of Malta, Malta
+  affiliation: "Ecole Nationale Vétérinaire d'Alfort, France"
   image: images/board/former/Augustin.png
   member_type: former
   order: 8
