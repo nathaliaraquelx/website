@@ -1,0 +1,25 @@
+---
+title: "International Committee on Predictive Modelling in Food"
+format: html
+---
+
+<!-- ![](images/logo.png){fig-align="center" width="500px"} -->
+
+---
+
+The **International Committee on Predictive Modelling in Food (ICPMF)** is a global initiative promoting the use of **predictive mathematical modelling** in food science to enhance **food safety**, **quality**, and **process optimization**.
+
+---
+
+## Join us in **Athens** for the $13^{th}$ ICPMF Conference!
+
+![](images/conferences/icpmf13.gif){fig-align="center" width="800px"}
+
+<div class="button-group" style="text-align: center; margin: 1.5rem 0;">
+  <a class="btn" href="https://afea.eventsair.com/13thicpmf/">13th Conference Info</a>
+  <a class="btn" href="https://afea.eventsair.com/13thicpmf/submission-guidelines">Call for Abstracts</a>
+  <a class="btn" href="https://afea.eventsair.com/13thicpmf/call-for-symposiaworkshops">Symposia & Workshops</a>
+</div>
+
+---
+

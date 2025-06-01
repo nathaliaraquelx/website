@@ -1,0 +1,15 @@
+---
+title: "🌐 ICPMF Conferences"
+format: html
+---
+
+## Upcoming
+
+### $13^{th}$ International Conference on Predictive Modelling in Food
+
+|                                                        |
+|--------------------------------------------------------|
+| ![](images/conferences/icpmf13.gif){fig-align="center" width="800px"} |
+
+
+The next $13^{th}$ International Conference of Predictive Modelling in Food ([https://afea.eventsair.com/13thicpmf/](https://afea.eventsair.com/13thicpmf/)) will be held in Athens from the $1^{st}$ to the $3^{rd}$ September 2025. It will comprise themes such as: the use of **Data Science**, **AI**, **Machine Learning**, and their tools for decision making in the Food sector, Digital twins in the Food Sector , Food safety by design: tools and decision support systems, and many others.

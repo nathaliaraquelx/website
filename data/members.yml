@@ -1,0 +1,143 @@
+- id: ursula-gonzales-barron
+  title: Ursula Gonzales-Barron
+  role: ICPMF Chair
+  affiliation: Instituto Politécnico de Bragança, Portugal
+  image: images/board/members/Ursula_Barron.png
+  member_type: current
+  order: 1
+
+- id: shige-koseki
+  title: Shige Koseki
+  role: ICPMF Secretary
+  affiliation: Hokkaido University, Japan
+  image: images/board/members/Shige_Koseki.jpg
+  member_type: current
+  order: 2
+
+- id: mariem-ellouse
+  title: Mariem Ellouse
+  role: Board Member
+  affiliation: Nestlé Research center, Switzerland
+  image: images/board/members/Mariem_Ellouse.png
+  member_type: current
+  order: 3
+  
+- id: heidy-den-desten
+  title: Heidy Den Besten
+  role: Board Member
+  affiliation: Wageningen University, The Netherlands
+  image: images/board/members/Heidy_Den_Besten.jpg
+  member_type: current
+  order: 4
+  
+- id: fernando-rodriguez
+  title: Fernando Rodriguez
+  role: Board Member
+  affiliation: University of Cordoba, Spain
+  image: images/board/members/Fernando_Rodriguez.png
+  member_type: current
+  order: 5
+
+- id: anderson-santana
+  title: Anderson Santana
+  role: Board Member
+  affiliation: University of Campinas, Brazil
+  image: images/board/members/Anderson_Santana.png
+  member_type: current
+  order: 6
+
+- id: martin-nauta
+  title: Martin Nauta
+  role: Board Member
+  affiliation: Statens Serum Institut, Denmark
+  image: images/board/members/Martin_Nauta.png
+  member_type: current
+  order: 7
+
+- id: regis-pouillot
+  title: Regis Pouillot
+  role: Board Member
+  affiliation: Independent consultant, France
+  image: images/board/members/Regis_Pouillot.jpg
+  member_type: current
+  order: 8
+
+- id: george-nychas
+  title: George Nychas
+  role: Board Member
+  affiliation: Agricultural University of Athens, Greece
+  image: images/board/members/George_Nychas.jpg
+  member_type: current
+  order: 9
+
+- id: qingli-dong
+  title: Qingli Dong
+  role: Board Member
+  affiliation: University of Shanghai for Science and Technology, China
+  image: images/board/members/Qingli_Dong.png
+  member_type: current
+  order: 10
+
+- id: josef-baranyi
+  title: Josef Baranyi
+  role: Former Member
+  affiliation: Agricultural University of Athens, Greece
+  image: images/board/former/Josef_Baranyi.png
+  member_type: former
+  order: 1
+
+- id: tom-ross
+  title: Tom Ross
+  role: Former Member
+  affiliation: University of Tasmanian, Australia
+  image: images/board/former/Tom_Ross.jpg
+  member_type: former
+  order: 2
+  
+- id: don-Schaffner
+  title: Donald Schaffner
+  role: Former Member
+  affiliation: Rutgers University, USA
+  image: images/board/former/Don_Schaffner.png
+  member_type: former
+  order: 3
+
+- id: paw-dalgaard
+  title: Paw Dalgaard
+  role: Former Member
+  affiliation: Technical University of Denmark, Denmark
+  image: images/board/former/Paw.png
+  member_type: former
+  order: 4
+  
+- id: marcel-zwietering
+  title: Marcel Zwietering
+  role: Former Member
+  affiliation: Wageningen University, The Netherlands
+  image: images/board/former/Marcel.png
+  member_type: former
+  order: 5
+
+- id: fanny-tenenhaus-aziza
+  title: Fanny Tenenhaus Aziza
+  role: Former Member
+  affiliation: French Dairy Board (CNIEL), France
+  image: images/board/former/Fanny.png
+  member_type: former
+  order: 6
+
+- id: vasilis-valdramidis
+  title: Vasilis Valdramidis
+  role: Former Member
+  affiliation: University of Malta, Malta
+  image: images/board/former/Vasilis.png
+  member_type: former
+  order: 7
+
+- id: augustin-jean-christophe
+  title: Augustin Jean-Christophe
+  role: Former Member
+  affiliation: University of Malta, Malta
+  image: images/board/former/Augustin.png
+  member_type: former
+  order: 8

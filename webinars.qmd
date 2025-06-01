@@ -1,0 +1,18 @@
+---
+title: 🎥 Webinars
+format: html
+---
+
+ICPMF Webinars are developed to fulfill the ICPMF vision and mission: promoting food modelling and predictive microbiology, bridging science and industry, and providing training resources for food modellers.
+
+Webinars produced and supported by ICPMF or in collaboration with other institutions and organizations are available in this section.
+
+## Overview of Present and Future of Predictive Microbiology
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/5NrOE2jFSic" 
+title="Overview of Predictive Microbiology" frameborder="0" allowfullscreen></iframe>
+
+## Ejemplos de estudios de vida útil en relación a *Listeria monocytogenes*
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/xSOltjIOM1M" 
+title="Estudios de vida útil y Listeria monocytogenes" frameborder="0" allowfullscreen></iframe>

@@ -1,0 +1,44 @@
+project:
+  type: website
+  resources:
+    - files/
+
+website:
+  title: ""
+
+  navbar:
+    logo: images/logo.png   # <- place this inside the navbar block
+    pinned: true   # This makes the navbar fixed on scroll
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd  
+      - text: "Events"
+        href: events.qmd
+      - text: "Board"
+        href: members.qmd
+      - text: "yICPMF"
+        href: young-members.qmd
+      - text: "Tools"
+        href: tools.qmd
+      - text: "Resources"
+        menu:
+          - text: "Training Material"
+            href: training.qmd
+          - text: "Webinars"
+            href: webinars.qmd
+          - text: "Publications"
+            href: publications.qmd
+          - text: "Partners and Groups"
+            href: partners.qmd
+          - text: "ICPMF Conference"
+            href: conference.qmd
+        
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cerulean
+    css: [styles.css]

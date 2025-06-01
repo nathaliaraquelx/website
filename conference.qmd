@@ -1,0 +1,25 @@
+---
+title: 🎓 ICPMF Conference
+format: html
+---
+
+## ICPMF Bylaws
+
+Bylaws approved and adopted by ICPMF to regulate its operations.
+
+<iframe src="files/ICPMF-Bylaws.pdf" width="100%" height="300px" style="border: none;"></iframe>
+
+
+## Organizing the ICPMF Conference
+
+- Check the procedure to apply and selection criteria for organizing the ICPMF conference.
+
+<iframe src="files/ICPMF-ConferenceOrganizationSelectionCriteria.pdf" width="100%" height="300px" style="border: none;"></iframe>
+
+
+## Example Proposal
+
+ Check the example proposal from a candidate host institution.
+
+<iframe src="files/ICPMF-Bylaws.pdf" width="100%" height="300px" style="border: none;"></iframe>
+

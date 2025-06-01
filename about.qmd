@@ -1,0 +1,34 @@
+---
+title: "What is ICPMF?"
+format: html
+---
+
+The **International Committee on Predictive Modelling in Food** (ICPMF) was founded on 12 September 2011 in Dublin during the **ICPMF-7 conference*. Since 2014, ICPMF is a subcommittee of The International Committee on Food Microbiology and Hygiene (ICFMH), and through this link, is now under the umbrella of the International Union of Microbiological Societies (IUMS).
+
+
+## GOALS
+
+### Predictive Modelling for Food
+
+To foster the development and use of mathematical modelling in food science
+
+
+### Food Safety and Quality
+
+To Improve Food Safety and Quality and Food Process Optimization through transferring the Know-How on Predictive Model to the different levels along the Food Chains
+
+### Predictive Modeller Community
+
+To create a strong predictive modeller community able to advance in Predictive Mathematical Tools for Food by increasing the presence in media, science, academia, etc
+
+### Educational Programmes
+
+To develop educational programmes to train scientists, academia and food professionals in Predictive Modelling Tools in Foods
+
+
+### Objectives
+
+- Promote the development and application of predictive mathematical models for microbiological, chemical, and physical behavior in food products.
+- Improve food safety and quality by optimizing processes using predictive tools.
+- Foster a community of predictive modelers through collaboration and knowledge sharing.
+- Provide educational programs and training on predictive modelling for food professionals.

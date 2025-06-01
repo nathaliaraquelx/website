@@ -1,0 +1,48 @@
+---
+title: "ICPMF Board"
+format: html
+listing:
+  - id: current-members
+    contents: data/members.yml
+    type: grid
+    sort: order
+    include:
+      member_type: "current"
+    grid-columns: 2
+    grid-item-align: center
+    image-height: 250px 
+    field-display-names:
+      role: ""
+      affiliation: ""
+    fields: [image, title, role, affiliation]
+
+  - id: former-members
+    contents: data/members.yml
+    type: grid
+    sort: order
+    include:
+      member_type: "former"
+    grid-columns: 2
+    grid-item-align: center
+    image-height: 250px 
+    field-display-names:
+      role: ""
+      affiliation: ""
+    fields: [image, title, role, affiliation]
+---
+
+## Current Members
+
+The ICPMF board is formed by ten members, from different organizations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organization of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeler community, the food sector and society in general.
+
+::: {#current-members}
+
+:::
+
+## Former Members
+
+This section includes past members of the ICPMF board, which constitutes the Advisory Board of ICPMF, providing non-binding advice about the strategic decisions concerning the management and direction of ICPMF.
+
+::: {#former-members}
+
+:::

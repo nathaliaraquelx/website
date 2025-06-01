@@ -1,0 +1,29 @@
+---
+title: "ICPMF Executive Board"
+format: html
+page-layout: full
+---
+
+## Dr. Ursula A. Gonzales-Barron  
+**ICPMF Chair**  
+CIMO-Polytechnic Institute of Braganza  
+Campus de Santa Apolonia  
+5300-253 Braganza (Portugal)  
+📧 [ubarron@ipb.pt](mailto:ubarron@ipb.pt)
+
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+src="https://www.openstreetmap.org/export/embed.html?bbox=-6.771%2C41.795%2C-6.767%2C41.799&amp;layer=mapnik&amp;marker=41.7970%2C-6.7690"
+style="border: 1px solid black"></iframe>
+
+---
+
+## Dr. Shige Koseki  
+**ICPMF Secretary**  
+Hokkaido University, Sapporo, Hokkaido, Japan  
+📧 [koseki@agr.hokudai.ac.jp](mailto:koseki@agr.hokudai.ac.jp)
+
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+src="https://www.openstreetmap.org/export/embed.html?bbox=141.339%2C43.073%2C141.342%2C43.076&amp;layer=mapnik&amp;marker=43.0747%2C141.3408"
+style="border: 1px solid black"></iframe>
+
+

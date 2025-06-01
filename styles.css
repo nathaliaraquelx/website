@@ -1,0 +1,169 @@
+/* =====================================
+   1) Footer Styles
+   ===================================== */
+.custom-footer {
+  border-top: 1px solid #ddd;
+  padding: 1em 0;
+  margin-top: 2em;
+  font-size: 0.9em;
+  color: #555;
+}
+.custom-footer .footer-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+.custom-footer .footer-logo {
+  max-height: 35px;
+}
+.custom-footer .footer-text {
+  flex: 1;
+  text-align: center;
+}
+.custom-footer .footer-social {
+  display: flex;
+  gap: 0.5em;
+}
+.custom-footer .footer-social a {
+  color: #555;
+  font-size: 1.3em;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.custom-footer .footer-social a:hover {
+  color: #0077b5;
+}
+
+@media (max-width: 600px) {
+  .custom-footer .footer-line {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.8em;
+  }
+  .custom-footer .footer-text {
+    flex: none;
+  }
+}
+
+/* =====================================
+   2) Grid & Card Styles
+   ===================================== */
+/* Use the built‐in listing‐grid container */
+.listing-grid,
+.quarto-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  row-gap: 2rem;
+  column-gap: 1.5rem;
+}
+
+/* Center content in each card */
+.listing-grid .listing-grid-item,
+.quarto-grid .quarto-grid-item {
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Optional: custom card background */
+.quarto-grid .quarto-grid-item,
+.listing-grid .listing-grid-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* =====================================
+   3) Hide the “affiliation” label
+   ===================================== */
+/* Remove every <dt> (the field label) in the grid listings */
+.listing-grid dt,
+.quarto-grid dt {
+  display: none !important;
+}
+
+/* Remove the indent on <dd> (the field value) */
+.listing-grid dd,
+.quarto-grid dd {
+  margin-left: 0 !important;
+}
+
+/* force all listing-grid images to 80×80px */
+.listing-grid img {
+  width: 80px !important;
+  height: 80px !important;
+  object-fit: cover;      /* crop/letterbox if needed */
+}
+
+/* =====================================
+   Avatar‐Style Thumbnails
+   ===================================== */
+.listing-grid img,
+.quarto-grid img {
+  width: 150px;                      /* fixed square size */
+  height: 150px;
+  object-fit: cover;                /* center‐crop the image */
+  object-position: center;
+  border-radius: 50%;               /* make it circular */
+  border: 3px solid #fff;           /* white ring around avatar */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);  /* subtle drop shadow */
+  transition: transform 0.3s ease;   /* smooth hover effect */
+}
+
+.listing-grid img:hover,
+.quarto-grid img:hover {
+  transform: scale(1.05);            /* slight zoom on hover */
+}
+
+.btn {
+  display: inline-block;
+  background-color: #007BFF;
+  color: white;
+  padding: 0.6em 1.2em;
+  margin: 0.5em;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.sidebar-navigation {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+/* Prevent content from being hidden behind fixed navbar */
+body {
+  padding-top: 60px; /* adjust based on your navbar height */
+}
+
+/* Add watermark image */
+.index-watermark {
+  position: relative;
+}
+
+.index-watermark::before {
+  content: "ICPMF";
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 8rem;
+  color: rgba(0, 0, 0, 0.05);
+  z-index: 0;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.navbar-logo {
+  max-height: 40px;
+  margin-right: 10px;
+}
+
