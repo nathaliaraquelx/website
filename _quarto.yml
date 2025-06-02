@@ -29,13 +29,11 @@ website:
             href: training.qmd
           - text: "Webinars"
             href: webinars.qmd
-          - text: "Publications"
-            href: publications.qmd
-          - text: "Partners and Groups"
-            href: partners.qmd
-          - text: "ICPMF Conference"
-            href: conference.qmd
-        
+          - text: "ICPMF"
+            href: icpmf.qmd
+            
+      - text: "News"
+        href: news.qmd        
       - text: "Contact"
         href: contact.qmd
 

@@ -3,10 +3,7 @@ title: 💻 Training Material
 format: html
 ---
 
-**The International Committee of Predictive Modelling in Foods** has as prime goal to improve mathematical model development through promoting Research and Innovation and facilitate the use of predictive models in the field of food.
 
-This section is intended to make available to users from Academia, Government and Industry any kind of material concerning predictive modelling in food, including conference presentations, videos, model files, reports, scientific articles, etc.
+The [Zenodo Community "Resources of ICPMF"](https://zenodo.org/communities/icpmf/) is intended to make available to users from **Academia**, **Government** and **Industry** any kind of material concerning predictive modelling in food, including book of abstracts, conference presentations, videos, model files, reports, scientific articles, etc.
 
-With this section, the last achievements and advances will be also shared with the modeller community and general public, thus increasing visibility and encouraging their application.
-
-In addition, ICPMF bylaw, ICPMF meeting minutes, technical reports and, in general, works produced by the ICPMF will be posted in this section.
+[Resources of ICPMF](https://zenodo.org/communities/icpmf/) intends to be a repository of the last achievements and advances for the modeller community and general public, thus increasing visibility and encouraging their application. If you would like to upload on our Community any material relevant to ICPMF, contact the ICPMF Chair.

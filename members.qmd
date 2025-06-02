@@ -33,7 +33,7 @@ listing:
 
 ## Current Members
 
-The ICPMF board is formed by ten members, from different organizations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organization of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeler community, the food sector and society in general.
+The ICPMF board is formed by ten members, from different organisations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organisation of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeller community, the food sector and society in general.
 
 ::: {#current-members}
 

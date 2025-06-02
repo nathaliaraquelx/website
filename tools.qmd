@@ -19,19 +19,16 @@ An online toolbox to assess quantitatively the risk of pathogenic and spoilage m
 
 A standalone software for the prediction of the shelf-life and growth of bacteria in different fresh and lightly preserved meat, dairy and seafood products. It can be used also when the effect of product temperature profiles recorded over time by data loggers.
 
-## [ComBase](http://www.combase.cc/index.php/en/)
+## [ComBase](https://combase.errc.ars.usda.gov/)
 
 An online relational database of records that quantitatively describe the growth and inactivation of pathogenic and spoilage microorganisms in food environments. The software also includes a suite of broth- and food-based models, as well as data-fitting tools. The initiative is a collaboration between the Tasmanian Institute of Agriculture and the USDA-Agricultural Research Service.
 
-## [CB Premium](https://www.cbpremium.org/)
-
-A suite of peer-reviewed food models specifically designed to help industry design and implement Food Safety Plans and HACCP systems. Driven by user requests, new models are regularly added for microbial spoilage, safety and shelf-life. APIs (application programming interfaces) are available to link CB Premium models to external software and devices, such as supply chain sensors.
 
 ## [Sym'Previus](http://symprevius.eu/en/)
 
 A decision support software tool for predicting bacterial growth, growth/no growth boundaries and thermal inactivation. It also contains microbiological data-fitting tools. The software makes it possible to take into account variability inherent to food products, processes and micro-organisms.
 
-## [FDA-iRISK 4.0](https://www.foodrisk.org/resources/display/2)
+## [FDA-iRISK](https://www.foodrisk.org/resources/display/2)
 
 An interactive, web-based risk assessment tool developed by the U.S. Food and Drug Administration to inform prioritization and intervention decisions about food safety. Through built-in functions and automated features, FDA-iRISK enables users to rank risks from multiple microbial and chemical hazards more efficiently, as well as predicting the effectiveness of potential solutions.
 

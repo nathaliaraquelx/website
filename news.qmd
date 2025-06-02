@@ -1,0 +1,21 @@
+---
+title: "🌐 News"
+format: html
+---
+
+## Ongoing
+
+### Call for application to host the ICPMF conference 2027
+
+|                                                        |
+|--------------------------------------------------------|
+| ![](images/conferences/CallOrganisingICPMF2027.png){fig-align="center" width="800px"} |
+
+
+- Open from 26 May to 16 June 2025
+- The application should contain:
+  - One-page description of time period, city, (co)-organisers of the conference, motivation and preferred topics, and if available, one or more supporting organisations.
+  - An engagement letter from the main organiser.
+
+- Applications should be sent by email to the Chair (ubarron@ipb.pt) and the Secretary (koseki@agr.hokudai.ac.jp) of the International Committee on Predictive Modelling in Food
+

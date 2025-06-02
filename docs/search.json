@@ -1,24 +1,45 @@
 [
   {
+    "objectID": "young-members.html",
+    "href": "young-members.html",
+    "title": "Young ICPMF",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "young-members.html#objectives-of-yicpmf",
+    "href": "young-members.html#objectives-of-yicpmf",
+    "title": "Young ICPMF",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "young-members.html#current-yicpmf-members",
+    "href": "young-members.html#current-yicpmf-members",
+    "title": "Young ICPMF",
+    "section": "🧑 Current yICPMF members",
+    "text": "🧑 Current yICPMF members\nTBA"
+  },
+  {
+    "objectID": "young-members.html#yicpmf-bylaws",
+    "href": "young-members.html#yicpmf-bylaws",
+    "title": "Young ICPMF",
+    "section": "📜 yICPMF Bylaws",
+    "text": "📜 yICPMF Bylaws\n📄 View or Download yICPMF Bylaws (PDF)"
+  },
+  {
     "objectID": "young-members.html#become-a-member",
     "href": "young-members.html#become-a-member",
     "title": "Young ICPMF",
-    "section": "🧑‍🔬 Become a Member",
-    "text": "🧑‍🔬 Become a Member\nIf you are interested in becoming a member of the Young Researcher Group (yICPMF) on Predictive Modelling in Food, fill out the on-line form."
-  },
-  {
-    "objectID": "young-members.html#slack-group",
-    "href": "young-members.html#slack-group",
-    "title": "Young ICPMF",
-    "section": "💬 Slack Group",
-    "text": "💬 Slack Group\nTutorial of the ICPMF Young Scientists Slack group. This is a platform to bring the Predictive Modeller Community together, in particular students and early career scientists, by making communication easier and connecting newcomers and seniors. In the “predictive-μbio” workspace, anyone can ask questions, propose activities, courses or topics for discussion, share their research and work on their research projects."
+    "section": "🧑 🔬 Become a Member",
+    "text": "🧑 🔬 Become a Member\nIf you are interested in becoming a member of the Young ICPMF, contact: yicpmf@gmail.com"
   },
   {
     "objectID": "training.html",
     "href": "training.html",
     "title": "💻 Training Material",
     "section": "",
-    "text": "The International Committee of Predictive Modelling in Foods has as prime goal to improve mathematical model development through promoting Research and Innovation and facilitate the use of predictive models in the field of food.\nThis section is intended to make available to users from Academia, Government and Industry any kind of material concerning predictive modelling in food, including conference presentations, videos, model files, reports, scientific articles, etc.\nWith this section, the last achievements and advances will be also shared with the modeller community and general public, thus increasing visibility and encouraging their application.\nIn addition, ICPMF bylaw, ICPMF meeting minutes, technical reports and, in general, works produced by the ICPMF will be posted in this section."
+    "text": "The Zenodo Community “Resources of ICPMF” is intended to make available to users from Academia, Government and Industry any kind of material concerning predictive modelling in food, including book of abstracts, conference presentations, videos, model files, reports, scientific articles, etc.\nResources of ICPMF intends to be a repository of the last achievements and advances for the modeller community and general public, thus increasing visibility and encouraging their application. If you would like to upload on our Community any material relevant to ICPMF, contact the ICPMF Chair."
   },
   {
     "objectID": "publications.html",
@@ -28,25 +49,32 @@
     "text": "This section includes downloadable PDFs, articles, and reports authored or endorsed by ICPMF."
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "ICPMF Board",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "🌐 News",
     "section": "",
-    "text": "The ICPMF board is formed by ten members, from different organizations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organization of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeler community, the food sector and society in general.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Chair\n\n\n\n\n\naffiliation\n\n\nInstituto Politécnico de Bragança, Portugal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Secretary\n\n\n\n\n\naffiliation\n\n\nHokkaido University, Japan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nRepresentative to ICFMH\n\n\n\n\n\naffiliation\n\n\nFerrero, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nWageningen University, The Netherlands\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Cordoba, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Campinas, Brazil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nStatens Serum Institut, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nIndependent Consultant, France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nAgricultural University of Athens, Greece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Shanghai for Science and Technology, China\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Open from 26 May to 16 June 2025\nThe application should contain:\n\nOne-page description of time period, city, (co)-organisers of the conference, motivation and preferred topics, and if available, one or more supporting organisations.\nAn engagement letter from the main organiser.\n\nApplications should be sent by email to the Chair (ubarron@ipb.pt) and the Secretary (koseki@agr.hokudai.ac.jp) of the International Committee on Predictive Modelling in Food"
   },
   {
-    "objectID": "members.html#current-members",
-    "href": "members.html#current-members",
-    "title": "ICPMF Board",
+    "objectID": "news.html#ongoing",
+    "href": "news.html#ongoing",
+    "title": "🌐 News",
     "section": "",
-    "text": "The ICPMF board is formed by ten members, from different organizations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organization of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeler community, the food sector and society in general.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Chair\n\n\n\n\n\naffiliation\n\n\nInstituto Politécnico de Bragança, Portugal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Secretary\n\n\n\n\n\naffiliation\n\n\nHokkaido University, Japan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nRepresentative to ICFMH\n\n\n\n\n\naffiliation\n\n\nFerrero, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nWageningen University, The Netherlands\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Cordoba, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Campinas, Brazil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nStatens Serum Institut, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nIndependent Consultant, France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nAgricultural University of Athens, Greece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Shanghai for Science and Technology, China\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Open from 26 May to 16 June 2025\nThe application should contain:\n\nOne-page description of time period, city, (co)-organisers of the conference, motivation and preferred topics, and if available, one or more supporting organisations.\nAn engagement letter from the main organiser.\n\nApplications should be sent by email to the Chair (ubarron@ipb.pt) and the Secretary (koseki@agr.hokudai.ac.jp) of the International Committee on Predictive Modelling in Food"
   },
   {
-    "objectID": "members.html#former-members",
-    "href": "members.html#former-members",
-    "title": "ICPMF Board",
-    "section": "Former Members",
-    "text": "Former Members\nThis section includes past members of the ICPMF board, which constitutes the Advisory Board of ICPMF, providing non-binding advice about the strategic decisions concerning the management and direction of ICPMF.\n\n\n\n\n\n\n\n\n\n\nJózsef Baranyi\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nAgricultural University of Athens, Greece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Ross\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Tasmania, Australia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Schaffner\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nRutgers University, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaw Dalgaard\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nTechnical University of Denmark, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarcel Zwietering\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nWageningen University, The Netherlands\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFanny Tenenhaus-Aziza\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nFrench Dairy Board (CNIEL), France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Valdramidis\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Malta, Malta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAugustin Jean-Christophe\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nEcole Nationale Vétérinaire d’Alfort, France\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "International Committee on Predictive Modelling in Food",
+    "section": "",
+    "text": "The International Committee on Predictive Modelling in Food (ICPMF) is a global initiative promoting the use of predictive mathematical modelling in food science to enhance food safety, quality, and process optimization."
+  },
+  {
+    "objectID": "index.html#join-us-in-athens-for-the-13th-icpmf-conference",
+    "href": "index.html#join-us-in-athens-for-the-13th-icpmf-conference",
+    "title": "International Committee on Predictive Modelling in Food",
+    "section": "Join us in Athens for the \\(13^{th}\\) ICPMF Conference!",
+    "text": "Join us in Athens for the \\(13^{th}\\) ICPMF Conference!\n\n\n\n\n\n\n13th Conference Info Call for Abstracts Symposia & Workshops"
   },
   {
     "objectID": "events.html",
@@ -95,14 +123,14 @@
     "href": "about.html",
     "title": "What is ICPMF?",
     "section": "",
-    "text": "The International Committee on Predictive Modelling in Food (ICPMF) was founded on 12 September 2011 in Dublin during the **ICPMF-7 conference*. Since 2014, ICPMF is a subcommittee of The International Committee on Food Microbiology and Hygiene (ICFMH), and through this link, is now under the umbrella of the International Union of Microbiological Societies (IUMS)."
+    "text": "The International Committee on Predictive Modelling in Food (ICPMF) was founded on 12 September 2011 in Dublin during the ICPMF-7 conference. Since 2014, ICPMF is a subcommittee of The International Committee on Food Microbiology and Hygiene (ICFMH), and through this link, is now under the umbrella of the International Union of Microbiological Societies (IUMS)."
   },
   {
     "objectID": "about.html#goals",
     "href": "about.html#goals",
     "title": "What is ICPMF?",
     "section": "GOALS",
-    "text": "GOALS\n\nPredictive Modelling for Food\nTo foster the development and use of mathematical modelling in food science\n\n\nFood Safety and Quality\nTo Improve Food Safety and Quality and Food Process Optimization through transferring the Know-How on Predictive Model to the different levels along the Food Chains\n\n\nPredictive Modeller Community\nTo create a strong predictive modeller community able to advance in Predictive Mathematical Tools for Food by increasing the presence in media, science, academia, etc\n\n\nEducational Programmes\nTo develop educational programmes to train scientists, academia and food professionals in Predictive Modelling Tools in Foods\n\n\nObjectives\n\nPromote the development and application of predictive mathematical models for microbiological, chemical, and physical behavior in food products.\nImprove food safety and quality by optimizing processes using predictive tools.\nFoster a community of predictive modelers through collaboration and knowledge sharing.\nProvide educational programs and training on predictive modelling for food professionals."
+    "text": "GOALS\n\nPredictive Modelling for Food\nTo foster the development and use of mathematical modelling in food science\n\n\nFood Safety and Quality\nTo Improve Food Safety and Quality and Food Process Optimisation through transferring the Know-How on Predictive Model to the different levels along the Food Chains\n\n\nPredictive Modeller Community\nTo create a strong predictive modeller community able to advance in Predictive Mathematical Tools for Food by increasing the presence in media, science, academia, etc\n\n\nEducational Programmes\nTo develop educational programmes to train scientists, academia and food professionals in Predictive Modelling Tools in Foods\n\n\nObjectives\n\nPromote the development and application of predictive mathematical models for microbiological, chemical, and physical behavior in food products.\nImprove food safety and quality by optimising processes using predictive tools.\nFoster a community of predictive modellers through collaboration and knowledge sharing.\nProvide educational programs and training on predictive modelling for food professionals."
   },
   {
     "objectID": "contact.html",
@@ -126,18 +154,46 @@
     "text": "Dr. Shige Koseki\nICPMF Secretary\nHokkaido University, Sapporo, Hokkaido, Japan\n📧 koseki@agr.hokudai.ac.jp"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "International Committee on Predictive Modelling in Food",
+    "objectID": "icpmf.html",
+    "href": "icpmf.html",
+    "title": "🎓 ICPMF",
     "section": "",
-    "text": "The International Committee on Predictive Modelling in Food (ICPMF) is a global initiative promoting the use of predictive mathematical modelling in food science to enhance food safety, quality, and process optimization."
+    "text": "Bylaws approved and adopted by ICPMF to regulate its operations.\n📄 View or Download Bylaws (PDF)"
   },
   {
-    "objectID": "index.html#join-us-in-athens-for-the-13th-icpmf-conference",
-    "href": "index.html#join-us-in-athens-for-the-13th-icpmf-conference",
-    "title": "International Committee on Predictive Modelling in Food",
-    "section": "Join us in Athens for the \\(13^{th}\\) ICPMF Conference!",
-    "text": "Join us in Athens for the \\(13^{th}\\) ICPMF Conference!\n\n\n\n\n\n\n13th Conference Info Call for Abstracts Symposia & Workshops"
+    "objectID": "icpmf.html#icpmf-bylaws",
+    "href": "icpmf.html#icpmf-bylaws",
+    "title": "🎓 ICPMF",
+    "section": "",
+    "text": "Bylaws approved and adopted by ICPMF to regulate its operations.\n📄 View or Download Bylaws (PDF)"
+  },
+  {
+    "objectID": "icpmf.html#hosting-the-icpmf-conference",
+    "href": "icpmf.html#hosting-the-icpmf-conference",
+    "title": "🎓 ICPMF",
+    "section": "Hosting the ICPMF conference",
+    "text": "Hosting the ICPMF conference\nProcedure to apply and selection criteria for organising the next ICPMF conference.\n📄 View or Download Selection Criteria (PDF)\n\nExample of ICPMF hosting proposal\nExample of proposal of a former candidate granted the hosting of the ICPMF conference.\n📄 View or Download Example Proposal (PDF)"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "ICPMF Board",
+    "section": "",
+    "text": "The ICPMF board is formed by ten members, from different organisations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organisation of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeller community, the food sector and society in general.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Chair\n\n\n\n\n\naffiliation\n\n\nInstituto Politécnico de Bragança, Portugal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Secretary\n\n\n\n\n\naffiliation\n\n\nHokkaido University, Japan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nRepresentative to ICFMH\n\n\n\n\n\naffiliation\n\n\nFerrero, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nWageningen University, The Netherlands\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Cordoba, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Campinas, Brazil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nStatens Serum Institut, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nIndependent Consultant, France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nAgricultural University of Athens, Greece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Shanghai for Science and Technology, China\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#current-members",
+    "href": "members.html#current-members",
+    "title": "ICPMF Board",
+    "section": "",
+    "text": "The ICPMF board is formed by ten members, from different organisations all over the world, being active in the field of Predictive Modelling in Food and demonstrating a relevant contribution and engagement in the sustainable development of this area in the different scopes of application: Academia, Industry and Government. The ICPMF board has the remit of maintaining the organisation of the biennial ICPMF conference and promoting workshops, symposia and other activities aimed to transfer the generated know-how and scientific and technological advances to the food modeller community, the food sector and society in general.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Chair\n\n\n\n\n\naffiliation\n\n\nInstituto Politécnico de Bragança, Portugal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nICPMF Secretary\n\n\n\n\n\naffiliation\n\n\nHokkaido University, Japan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nRepresentative to ICFMH\n\n\n\n\n\naffiliation\n\n\nFerrero, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nWageningen University, The Netherlands\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Cordoba, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Campinas, Brazil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nStatens Serum Institut, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nIndependent Consultant, France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nAgricultural University of Athens, Greece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBoard Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Shanghai for Science and Technology, China\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#former-members",
+    "href": "members.html#former-members",
+    "title": "ICPMF Board",
+    "section": "Former Members",
+    "text": "Former Members\nThis section includes past members of the ICPMF board, which constitutes the Advisory Board of ICPMF, providing non-binding advice about the strategic decisions concerning the management and direction of ICPMF.\n\n\n\n\n\n\n\n\n\n\nJózsef Baranyi\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nAgricultural University of Athens, Greece\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Ross\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Tasmania, Australia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDonald Schaffner\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nRutgers University, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaw Dalgaard\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nTechnical University of Denmark, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarcel Zwietering\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nWageningen University, The Netherlands\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFanny Tenenhaus-Aziza\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nFrench Dairy Board (CNIEL), France\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Valdramidis\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nUniversity of Malta, Malta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAugustin Jean-Christophe\n\n\n\n\n\nrole\n\n\nFormer Member\n\n\n\n\n\naffiliation\n\n\nEcole Nationale Vétérinaire d’Alfort, France\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "partners.html",
@@ -182,13 +238,6 @@
     "text": "ComBase\nAn online relational database of records that quantitatively describe the growth and inactivation of pathogenic and spoilage microorganisms in food environments. The software also includes a suite of broth- and food-based models, as well as data-fitting tools. The initiative is a collaboration between the Tasmanian Institute of Agriculture and the USDA-Agricultural Research Service."
   },
   {
-    "objectID": "tools.html#cb-premium",
-    "href": "tools.html#cb-premium",
-    "title": "🛠️Predictive Modelling Tools",
-    "section": "CB Premium",
-    "text": "CB Premium\nA suite of peer-reviewed food models specifically designed to help industry design and implement Food Safety Plans and HACCP systems. Driven by user requests, new models are regularly added for microbial spoilage, safety and shelf-life. APIs (application programming interfaces) are available to link CB Premium models to external software and devices, such as supply chain sensors."
-  },
-  {
     "objectID": "tools.html#symprevius",
     "href": "tools.html#symprevius",
     "title": "🛠️Predictive Modelling Tools",
@@ -196,11 +245,11 @@
     "text": "Sym’Previus\nA decision support software tool for predicting bacterial growth, growth/no growth boundaries and thermal inactivation. It also contains microbiological data-fitting tools. The software makes it possible to take into account variability inherent to food products, processes and micro-organisms."
   },
   {
-    "objectID": "tools.html#fda-irisk-4.0",
-    "href": "tools.html#fda-irisk-4.0",
+    "objectID": "tools.html#fda-irisk",
+    "href": "tools.html#fda-irisk",
     "title": "🛠️Predictive Modelling Tools",
-    "section": "FDA-iRISK 4.0",
-    "text": "FDA-iRISK 4.0\nAn interactive, web-based risk assessment tool developed by the U.S. Food and Drug Administration to inform prioritization and intervention decisions about food safety. Through built-in functions and automated features, FDA-iRISK enables users to rank risks from multiple microbial and chemical hazards more efficiently, as well as predicting the effectiveness of potential solutions."
+    "section": "FDA-iRISK",
+    "text": "FDA-iRISK\nAn interactive, web-based risk assessment tool developed by the U.S. Food and Drug Administration to inform prioritization and intervention decisions about food safety. Through built-in functions and automated features, FDA-iRISK enables users to rank risks from multiple microbial and chemical hazards more efficiently, as well as predicting the effectiveness of potential solutions."
   },
   {
     "objectID": "webinars.html",
