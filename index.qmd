@@ -7,7 +7,7 @@ format: html
 
 ---
 
-The **International Committee on Predictive Modelling in Food (ICPMF)** is a global initiative promoting the use of **predictive mathematical modelling** in food science to enhance **food safety**, **quality**, and **process optimization**.
+The **International Committee on Predictive Modelling in Food (ICPMF)** is a global initiative promoting the use of **predictive mathematical modelling** in food science to enhance **food safety**, **quality**, and **process optimisation**.
 
 ---
 
