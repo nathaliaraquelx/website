@@ -31,8 +31,6 @@ listing:
     fields: [image, title, role, affiliation]
 ---
 
-## Current Members
-
 The Young International Committee on Predictive Modelling in Food (yICPMF) is a network for young researchers whose aim is to foster collaboration and knowledge exchange within the research domains of ICPMF:
 
 - 📌 Risk assessment methods;
@@ -49,11 +47,25 @@ The yICPMF group's aims are:
 1. to foster collaboration and knowledge exchange among young scientists and facilitate contact with senior scientists;
 2. to create a young community for proposing activities, events, courses, etc.
 
+
+## 📜 yICPMF Bylaws
+
+[📄 View or Download yICPMF Bylaws (PDF)](files/yICPMF-bylaws.pdf){target=_blank}
+
+
+## 🧑 Become a Member
+
+If you are interested in becoming a **member** of the **Young ICPMF**, contact: [yicpmf@gmail.com](mailto:yicpmf@gmail.com)
+
+
+
+### 🧑 Current Members
+
 ::: {#ycurrent-members}
 
 :::
 
-## Former Members
+### Former Members
 
 
 ::: {#yformer-members}
