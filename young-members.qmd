@@ -1,23 +1,61 @@
 ---
-title: "Young ICPMF"
+title: "yICPMF Board"
 format: html
+listing:
+  - id: ycurrent-members
+    contents: data/young-members.yml
+    type: grid
+    sort: order
+    include:
+      member_type: "current"
+    grid-columns: 2
+    grid-item-align: center
+    image-height: 250px 
+    field-display-names:
+      role: ""
+      affiliation: ""
+    fields: [image, title, role, affiliation]
+
+  - id: yformer-members
+    contents: data/young-members.yml
+    type: grid
+    sort: order
+    include:
+      member_type: "former"
+    grid-columns: 2
+    grid-item-align: center
+    image-height: 250px 
+    field-display-names:
+      role: ""
+      affiliation: ""
+    fields: [image, title, role, affiliation]
 ---
 
-## 📜 Objectives of yICPMF
+## Current Members
 
-TBA
+The Young International Committee on Predictive Modelling in Food (yICPMF) is a network for young researchers whose aim is to foster collaboration and knowledge exchange within the research domains of ICPMF:
 
-## 🧑 Current yICPMF members
+- 📌 Risk assessment methods;
+- ⏳ Shelf Life determination and optimisation;
+- 🧬 Foodomics and bioinformatics;
+- 📊 Predictive Microbiology;
+- 🔬 Individual cell and whole-cell modelling;
+- 📍 Microbial dynamics and interactions;
+- 💻 Software and database tools;
+- 📚 Meta-analysis protocols and applications;
 
-TBA
+The yICPMF group's aims are:
 
-## 📜 yICPMF Bylaws
+1. to foster collaboration and knowledge exchange among young scientists and facilitate contact with senior scientists;
+2. to create a young community for proposing activities, events, courses, etc.
+
+::: {#ycurrent-members}
+
+:::
+
+## Former Members
 
 
-[📄 View or Download yICPMF Bylaws (PDF)](files/yICPMF-bylaws.pdf){target=_blank}
+::: {#yformer-members}
 
-
-## 🧑 🔬 Become a Member
-
-If you are interested in becoming a **member** of the **Young ICPMF**, contact: yicpmf@gmail.com
-
+:::

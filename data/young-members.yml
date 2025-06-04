@@ -1,0 +1,143 @@
+- id: nathalia-fernandes
+  title: Nathália Fernandes
+  role: yICPMF Chair
+  affiliation: Polytechnic Institute of Bragança (IPB), Portugal
+  image: images/yboard/members/nathalia_fernandes.jpg
+  member_type: current
+  order: 1
+  
+
+- id: jean-correia-costa
+  title: Jean Correia Costa
+  role: yICPMF Secretary
+  affiliation: University of Lleida, Spain
+  image: images/yboard/members/jean_correia.jpg
+  member_type: current
+  order: 2
+
+- id: cristina-serra
+  title: Cristina Serra
+  role: yICPMF Scientific Commission
+  affiliation: Wageningen University, Netherlands
+  image: images/yboard/members/cristina_serra.jpg
+  member_type: current
+  order: 3
+
+- id: federico-tomasello
+  title: Federico Tomasello
+  role: yICPMF Scientific Commission
+  affiliation: Institute of Agrifood Research and Technology (IRTA), Spain
+  image: images/yboard/members/federico_tomasello.jpg
+  member_type: current
+  order: 4
+
+- id: marianna-arvaniti
+  title: Marianna Arvaniti
+  role: yICPMF Scientific Commission
+  affiliation: Agricultural University of Athens, Greece
+  image: images/yboard/members/marianna_arvaniti.jpg
+  member_type: current
+  order: 5
+
+- id: ibrahim-benamar 
+  title: Ibrahim Benamar
+  role: yICPMF Scientific Commission
+  affiliation: Laghouat University, Algeria
+  image: images/yboard/members/ibrahim_benamar.jpg
+  member_type: current
+  order: 6
+
+- id: lea-bellot
+  title: Léa Bellot 
+  role: yICPMF Outreach and Digital Commission
+  affiliation: University of Western Brittany, France
+  image: images/yboard/members/lea_bellot.png
+  member_type: current
+  order: 7
+
+- id: bram-jacobs
+  title: Bram Jacobs
+  role: yICPMF Outreach and Digital Commission
+  affiliation: Ghent University, Belgium
+  image: images/yboard/members/bram_jacobs.jpg
+  member_type: current
+  order: 8
+
+- id: kaoutar-hafdane
+  title: Kaoutar Hafdane
+  role: yICPMF Outreach and Media Commission
+  affiliation: University of Western Brittany, France
+  image: images/yboard/members/kaoutar_hafdane.jpg
+  member_type: current
+  order: 9
+
+- id: mariem-zanzan
+  title: Mariem Zanzan
+  role: yICPMF Member
+  affiliation: Polytechnic Institute of Bragança, Portugal
+  image: images/yboard/members/mariem_zanzan.jpg
+  member_type: current
+  order: 10
+
+- id: berta-torrents-masoliver
+  title: Berta Torrents-Masoliver
+  role: yICPMF Member
+  affiliation: Institute of Agrifood Research and Technology (IRTA), Spain
+  image: images/yboard/members/berta.png
+  member_type: current
+  order: 11
+
+- id: edwin-hlangwani
+  title: Edwin Hlangwani
+  role: yICPMF Member
+  affiliation: University of Johannesburg
+  image: images/yboard/members/edwin_hlangwani.jpg
+  member_type: current
+  order: 12
+
+- id: soundarya-karamcheti
+  title: Soundarya Karamcheti
+  role: yICPMF Member
+  affiliation: Wageningen University, Netherlands
+  image: images/yboard/members/soundarya_karamcheti.jpg
+  member_type: current
+  order: 13
+
+- id: erwan-le-rouzo
+  title: Erwan Le Rouzo
+  role: yICPMF Member
+  affiliation: University of Western Brittany, France
+  image: images/yboard/members/erwan_lerouzo.jpg
+  member_type: current
+  order: 14
+
+- id: agathe-dutoit
+  title: Agathe Dutoit
+  role: yICPMF Member
+  affiliation: ADRIA
+  image: images/yboard/members/agathe_dutoit.jpg
+  member_type: current
+  order: 15
+
+- id: yangtai-liu
+  title: Yangtai Liu
+  role: yICPMF Member
+  affiliation: University of Shanghai for Science and Technology, China
+  image: images/yboard/members/yangtai_liu.jpg
+  member_type: current
+  order: 16
+
+- id: paula-barciela
+  title: Paula Barciela 
+  role: yICPMF Member
+  affiliation: University of Vigo, Spain
+  image: images/yboard/members/paula.jpg
+  member_type: current
+  order: 17
+
+- id: olga-luque
+  title: Olga María Bonilla Luque
+  role: yICPMF Member
+  image: images/yboard/members/olga_bonilla.jpg
+  member_type: current
+  order: 18
