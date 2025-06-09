@@ -13,16 +13,13 @@ An online relational database of records that quantitatively describe the growth
 
 “CardinalFit: Fitting Cardinal Models” is a Shiny dashboard designed to fit cardinal parameter models, which are secondary models that describe the growth rate of microorganisms as a function of extrinsic and/or intrinsic factors. These are models that estimate the optimum growth rate, and the minimum, optimum and maximum values of extrinsic and intrinsic factors (e.g. temperature, pH, water activity), which characterise the growth of a given microbial strain.
 
-
 ## [Cardinal_Model_Broth](https://vcadavez.shinyapps.io/ListeriaCardinalModel)
 
 The web application “Meta-analysed cardinal parameter model of *Listeria monocytogenes* in broth” is a shiny dashboard of a meta-analysed cardinal parameter model of *Listeria monocytogenes* growth in broth, built upon the results from over 2000 growth experiments. The app. displays cardinal parameter graphs and estimates growth rate values at a given temperature, pH and water activity. Documentation of the meta-analysis model can be found at: [https://doi.org/10.1016/j.foodres.2020.109476](https://doi.org/10.1016/j.foodres.2020.109476).
 
 ## 🔬 [Database Pathogens In Foods](https://pif.esa.ipb.pt/)
 
-[Pathogens-in-Foods is a database](https://pif.esa.ipb.pt/) of systematically formatted occurrence data of the most important biological hazards in foods randomly surveyed from European farms, processing facilities, retail establishments and restauration.
-
-Under a harmonised arrangement, Pathogens-in-Foods brings together prevalence and enumeration data of pathogenic bacteria, parasites and viruses in foods, extracted from published peer-reviewed articles and reports.
+[Pathogens-in-Foods - PIF](https://pif.esa.ipb.pt/) is a database of systematically formatted occurrence data of the most important biological hazards in foods randomly surveyed from European farms, processing facilities, retail establishments and restauration. Prevalence and enumeration data from periodic systematic reviews are inserted into PIF, and are available in four catalogues: Bacteria, Virus, Protozoans and Nematodes. Shiny dashboards provide swift data description and meta-analysis.
 
 ## [FDA-iRISK](https://www.foodrisk.org/resources/display/2)
 
@@ -32,6 +29,10 @@ An interactive, web-based risk assessment tool developed by the U.S. Food and Dr
 
 A standalone software for the prediction of the shelf-life and growth of bacteria in different fresh and lightly preserved meat, dairy and seafood products. It can be used also when the effect of product temperature profiles recorded over time by data loggers.
 
+## [Growth Predictor](https://skandamis.shinyapps.io/Microbial-Growth-Predictor-Dashboard/)
+
+A predictive modelling and quantitative microbial risk assessment (QMRA) application in Rshiny. Primary model fitting is carried out with the Baranyi model. Secondary fitting and growth simulations are based on gamma models with or without interactions. A variety of gamma terms can be used under static or dynamic conditions. The variability in T, pH, aw, the levels of up to 6 inhibitors and the strain-to-strain variability in growth limits can be described by normal distributions. The QMRA is comprised of four consecutive modules from primary production till consumption, coupled with built-in, or user defined dose-response models. In addition to prevalence, the modules consider partition, mixing, cross-contamination and uncertainty in prevalence (beta distribution). Variability can be introduced through a variety of probability distributions (e.g., Normal, Pert, Triangular, Discrete, Uniform, etc.), for initial contamination, re-contamination, storage time and temperature, product characteristics, serving size, maximum population density, and cooking practices. Fixed or variable log reductions during cooking, may be introduced as user-defined values or probability distributions, respectively, or estimated by Bigelow thermal inactivation model. Suitable for assessing compliance with micro-criteria and relative risk ranking. 
+
 ## [MicroHibro](https://microhibro.com/)
 
 An online toolbox to assess quantitatively the risk of pathogenic and spoilage microorganisms in a variety of food commodities, by including predictive models, dose-response models, stochastic models. The software includes a tool for assessing and designing sampling plan and derive risk metrics such as Food Safety Objectives and Performance Objectives.
@@ -40,17 +41,17 @@ An online toolbox to assess quantitatively the risk of pathogenic and spoilage m
 
 Microrisk Lab is an R-based online freeware for predictive microbiology, with its core function being the parameter estimation and model simulation of microbial behaviours such as growth and inactivation. The platform integrates up to 36 peer-reviewed mathematical models, covering primary models under static and non-isothermal conditions, secondary models describing the influence of environmental factors on specific growth rates, and competitive growth models for two microflora populations, supporting both deterministic and stochastic simulations. 
 
+## [MRV - Microbial Responses Viewer](http://mrviewer.info/)
+
+Microbial Responses Viewer is a growth/no growth interface based on ComBase database. It provides a visualisation of growth/no growth plot with the specific growth rates as a function of temperature, pH, and aw.  The MRV enables users to retrieve microbial growth/no growth information intuitively. Using the MRV, food processors can easily identify appropriate food design and processing conditions. The detail of the tool can be seen at [https://doi.org/10.1016/j.ijfoodmicro.2008.12.019](https://doi.org/10.1016/j.ijfoodmicro.2008.12.019) and [https://doi.org/10.1016/j.foodcont.2012.05.044](https://doi.org/10.1016/j.foodcont.2012.05.044).
+
 ## [PredMicro](https://vcadavez.shinyapps.io/PredMicro/)
 
 “PredMicro: Fitting Predictive Microbial Models” is a Shiny application tool designed to support the fitting of the most widely used predictive microbiology primary growth models. These are models that describe microbial concentration as a function of time at constant environmental conditions.
 
 ## [Sym'Previus](http://symprevius.eu/en/)
 
-A decision support software tool for predicting bacterial growth, growth/no growth boundaries and thermal inactivation. It also contains microbiological data-fitting tools. The software makes it possible to take into account variability inherent to food products, processes and micro-organisms.
-
-## [WHO R package: qraLm](https://github.com/WorldHealthOrganization/qraLm)
-
-qraLm is an R package for quantitative risk assessment of *Listeria monocytogenes* in foods, which was developed by the World Health Organization in the framework of the JEMRA Expert Meetings *Listeria monocytogenes* in foods, part 1 and 2. In addition to the modular functions for each processing stage of RTE seafood, frozen vegetables and RTE cantaloupe, the qraLm package contains a built-in Shiny app allowing users to interactively simulate risk assessments for different food types and contamination scenarios.
+Sym'Previus is decision support software for predictive microbiology that simulates bacterial growth, growth/no growth limits and thermal inactivation in various food environments. It offers ready-to-use applications and model fitting tools. Sym'Previus incorporates distinctive advanced features such as toolboxes for mould growth and bacterial growth under modified atmosphere packaging (MAP). It is developed and maintained by a multi-partner Scientific Interest Group (SIG), which guarantees its independence, long-term continuity and adaptability. All updates are examined and validated scientifically by a committee of experts, guaranteeing methodological rigour. This unique governance model makes Sym'Previus both collaborative and robust, combining scientific reliability with flexibility for industrial and research applications. 
 
 ## [USDA Integrated Pathogen Modeling Program (USDA-IPMP)](https://www.ars.usda.gov/northeast-area/wyndmoor-pa/eastern-regional-research-center/docs/ipmp-2013/)
 
@@ -64,6 +65,8 @@ USDA IPMP-Global Fit is developed on top of USDA IPMP, but it is designed for on
 
 USDA IPMP – Dynamic Prediction is also developed on top of USDA IPMP, but it is developed as a predictive tool (for direct analysis). It is also a self-extractable file and can work from any local drive.  No installation is needed. It is specifically developed to predict the growth of foodborne pathogens under dynamically changing temperature conditions, but it is also capable for predicting bacterial growth and survival under constant temperature conditions.  It is also built with user-friendly graphical interfaces to allow users to make predictions based on a time-temperature history. All models in USDA IPMP – Dynamic Prediction have been validated in the laboratory.
 
+## [WHO R package: qraLm](https://github.com/WorldHealthOrganization/qraLm)
 
+qraLm is an R package for quantitative risk assessment of *Listeria monocytogenes* in foods, which was developed by the World Health Organization in the framework of the JEMRA Expert Meetings *Listeria monocytogenes* in foods, part 1 and 2. In addition to the modular functions for each processing stage of RTE seafood, frozen vegetables and RTE cantaloupe, the qraLm package contains a built-in Shiny app allowing users to interactively simulate risk assessments for different food types and contamination scenarios.
 
 
