@@ -2,13 +2,13 @@
    1) Footer Styles
    ===================================== */
 .custom-footer {
-  border-top: 1px solid #ddd;
+  background: #0077b5;
+  color: #fff;
   padding: 1em 0;
-  margin-top: 2em;
-  font-size: 0.9em;
-  color: #555;
+  text-align: center;
 }
-.custom-footer .footer-line {
+
+.footer-line {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -17,24 +17,29 @@
   margin: 0 auto;
   padding: 0 1em;
 }
-.custom-footer .footer-logo {
+
+.footer-logo {
   max-height: 35px;
 }
-.custom-footer .footer-text {
+
+.footer-text {
   flex: 1;
   text-align: center;
 }
-.custom-footer .footer-social {
+
+.footer-social {
   display: flex;
   gap: 0.5em;
 }
-.custom-footer .footer-social a {
+
+.footer-social a {
   color: #555;
   font-size: 1.3em;
   text-decoration: none;
   transition: color 0.3s ease;
 }
-.custom-footer .footer-social a:hover {
+
+.footer-social a:hover {
   color: #0077b5;
 }
 
@@ -98,6 +103,25 @@
   height: 80px !important;
   object-fit: cover;      /* crop/letterbox if needed */
 }
+
+
+/* Adjust selector as needed if your theme is different */
+.quarto-page-footer {
+  background: #00a0dc;    /* Dark blue-gray, change to your color */
+  color: #fff !important; /* Ensure text is white for contrast */
+  padding: 1em 0;
+}
+
+/* Optional: Change icon color on hover */
+.quarto-page-footer a {
+  color: #fff !important;
+  margin: 0 0.5em;
+  transition: color 0.2s;
+}
+.quarto-page-footer a:hover {
+  color: #00a0dc !important; /* LinkedIn blue as accent, optional */
+}
+
 
 /* =====================================
    Avatar‐Style Thumbnails

@@ -6,7 +6,17 @@ project:
 
 website:
   title: ""
-
+  page-footer: 
+    border: true
+    left: "© 2025 ICPMF Executive Board"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/company/icpmf
+      - icon: facebook
+        href: https://www.facebook.com/icpmf11/
+      - icon: envelope
+        href: mailto:icpmfood@gmail.com
+        
   navbar:
     logo: images/logo.png   # <- place this inside the navbar block
     pinned: true   # This makes the navbar fixed on scroll
