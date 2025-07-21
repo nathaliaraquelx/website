@@ -82,6 +82,16 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
+/* Fix image proportions inside grid cards */
+.quarto-grid img,
+.listing-grid img {
+  width: 100%;
+  height: 250px;        /* match your .qmd file image height */
+  object-fit: cover;    /* crops images nicely */
+  border-radius: 6px;   /* optional, rounds corners */
+  display: block;
+}
+
 /* =====================================
    3) Hide the “affiliation” label
    ===================================== */
